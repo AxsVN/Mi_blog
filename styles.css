@@ -67,3 +67,15 @@ footer {
     padding: 1rem;
     margin-top: 2rem;
 }
+
+/* Sangría */
+#p0 { text-indent: 2em; }
+#p1 { text-indent: 4em; }
+#p2 { text-indent: 15px; }
+#p3 { text-indent: 10%; }
+
+/* Alineación del texto */
+#p0 { text-align: left; }
+#p1 { text-align: right; }
+#p2 { text-align: center; }
+#p3 { text-align: justify; }
